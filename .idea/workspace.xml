@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="deb236fa-d20a-41ef-aa1d-099c2a9e8089" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="new-app" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R0RhbkxSI8sLIwskjuJGcTdGgD" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new-app-gamer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Images" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\C++1\REACT\REACT_PROJEKT\CREATE-REACT-APP\new-app\src" />
+      <recent name="G:\C++1\REACT\REACT_PROJEKT\CREATE-REACT-APP\new-app\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deb236fa-d20a-41ef-aa1d-099c2a9e8089" name="Default Changelist" comment="" />
+      <created>1554205901416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554205901416</updated>
+      <workItem from="1554205905856" duration="5750000" />
+      <workItem from="1559481998998" duration="1624000" />
+      <workItem from="1559486624607" duration="1153000" />
+      <workItem from="1559554058149" duration="3926000" />
+      <workItem from="1559645752438" duration="9465000" />
+      <workItem from="1560379823624" duration="16325000" />
+      <workItem from="1560472139547" duration="20721000" />
+      <workItem from="1560557016826" duration="13686000" />
+      <workItem from="1560638438064" duration="1221000" />
+      <workItem from="1560733957249" duration="842000" />
+      <workItem from="1560734859150" duration="2050000" />
+      <workItem from="1560812429189" duration="5073000" />
+      <workItem from="1561904091374" duration="17667000" />
+      <workItem from="1561986990685" duration="7057000" />
+      <workItem from="1562072172246" duration="5509000" />
+      <workItem from="1562087926242" duration="402000" />
+      <workItem from="1562108714704" duration="623000" />
+      <workItem from="1562182631207" duration="2440000" />
+      <workItem from="1562241961331" duration="665000" />
+      <workItem from="1562259453149" duration="1171000" />
+      <workItem from="1562312874302" duration="2327000" />
+      <workItem from="1562329731974" duration="588000" />
+      <workItem from="1562408203229" duration="1215000" />
+      <workItem from="1562494585042" duration="867000" />
+      <workItem from="1562704635929" duration="3048000" />
+      <workItem from="1563043474857" duration="7944000" />
+      <workItem from="1568802149285" duration="6838000" />
+      <workItem from="1568827030803" duration="12456000" />
+      <workItem from="1568880155824" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
